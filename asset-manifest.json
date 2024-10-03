@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/julietM/proyecto-portafolio/static/css/main.f855e6bc.css",
+    "main.js": "/julietM/proyecto-portafolio/static/js/main.bffe03d6.js",
+    "static/js/453.6f93f8d1.chunk.js": "/julietM/proyecto-portafolio/static/js/453.6f93f8d1.chunk.js",
+    "static/media/logo.svg": "/julietM/proyecto-portafolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/julietM/proyecto-portafolio/index.html",
+    "main.f855e6bc.css.map": "/julietM/proyecto-portafolio/static/css/main.f855e6bc.css.map",
+    "main.bffe03d6.js.map": "/julietM/proyecto-portafolio/static/js/main.bffe03d6.js.map",
+    "453.6f93f8d1.chunk.js.map": "/julietM/proyecto-portafolio/static/js/453.6f93f8d1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.bffe03d6.js"
+  ]
+}
